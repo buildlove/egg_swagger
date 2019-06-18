@@ -3,6 +3,7 @@
 'use strict';
 
 const path = require('path');
+const db = require('./db.json');
 /**
  * @param {Egg.EggAppInfo} appInfo app info
  */
@@ -14,7 +15,7 @@ module.exports = appInfo => {
   const config = exports = {};
 
   // use for cookie sign key, should change to your own and keep security
-  config.keys = appInfo.name + '_1560391389136_3734';
+  // config.keys = appInfo.name + '_1560391389136_3734';
 
   // add your middleware config here
   config.middleware = [
@@ -28,7 +29,7 @@ module.exports = appInfo => {
       // cookieDomain: undefined,
       // cookieName: 'csrfToken',
       // sessionName: 'csrfToken',
-      // headerName: 'x-csrf-token',
+      headerName: 'x-csrf-token',
       // bodyName: '_csrf',
       // queryName: '_csrf',
     },
@@ -42,11 +43,12 @@ module.exports = appInfo => {
   };
   config.static = {
     // 静态化访问前缀,如：`http://127.0.0.1:7001/static/images/logo.png`
-    prefix: '/public/',
+    // prefix: '/api' + Math.ceil(Math.random() * 10000) + '/',
+    prefix: '/api/',
     dir: path.join(appInfo.baseDir, 'app/public'), // `String` or `Array:[dir1, dir2, ...]` 静态化目录,可以设置多个静态化目录
     dynamic: true, // 如果当前访问的静态资源没有缓存，则缓存静态文件，和`preload`配合使用；
     preload: false,
-    maxAge: 31536000, // in prod env, 0 in other envs
+    maxAge: 0, // in prod env, 0 in other envs
     buffer: true, // in prod env, false in other envs
   };
   // 数据库
@@ -56,7 +58,8 @@ module.exports = appInfo => {
       port: '3306',
       user: 'root',
       password: 'Lixiaoqi2468',
-      database: 'map',
+      database: 'drwifi',
+      env: 'dev',
     },
     // load into app, default is open
     app: true,
@@ -65,8 +68,8 @@ module.exports = appInfo => {
   };
   config.session = {
     key: 'SESSION_ID',
-    maxAge: 864000,
-    renew: true, // 延长会话有效期
+    maxAge: 10,
+    renew: false, // 延长会话有效期
   };
   config.swagger2 = {
     enable: process.env.NODE_ENV === 'development', // disable swagger , default true
@@ -83,9 +86,9 @@ module.exports = appInfo => {
         'application/json',
       ],
       info: {
-        description: '',
-        version: '1.0.0',
-        title: 'wifi-X',
+        description: process.env.description,
+        version: process.env.npm_package_version,
+        title: process.env.npm_package_name,
       },
       tags: [],
       definitions: {
@@ -96,6 +99,7 @@ module.exports = appInfo => {
       },
     },
   };
+  config.db = db;
   // add your user config here
   const userConfig = {
     // myAppName: 'egg',

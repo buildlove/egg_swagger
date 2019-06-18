@@ -1,0 +1,948 @@
+{
+  "all_permission_list2": {
+    "danger_level": "",
+    "Google_default": "",
+    "Id": "primary",
+    "permission_describe": "",
+    "permission_detail": "",
+    "permission_name": ""
+  },
+  "app_info": {
+    "app_desc": "",
+    "app_id": "",
+    "app_name": "",
+    "app_type": "",
+    "behavior_type": "",
+    "Extra_info": "",
+    "id": "primary"
+  },
+  "app_type": {
+    "app_name": "",
+    "app_type": "",
+    "detail_type": "",
+    "id": "primary",
+    "software_or_game": ""
+  },
+  "apps_info": {
+    "apkurl": "",
+    "appdesc": "",
+    "apphot": "",
+    "appiconurl": "",
+    "appname": "",
+    "appPackname": "",
+    "appshort": "",
+    "appsize": "",
+    "apptags": "",
+    "apptype": "",
+    "id": "primary",
+    "progress": ""
+  },
+  "aresults": {
+    "app_id": "",
+    "case_id": "",
+    "device_id": "",
+    "hitted": "",
+    "id": "primary",
+    "type": ""
+  },
+  "auth_group": {
+    "id": "primary",
+    "name": ""
+  },
+  "auth_group_permissions": {
+    "group_id": "",
+    "id": "primary",
+    "permission_id": ""
+  },
+  "auth_permission": {
+    "codename": "",
+    "content_type_id": "",
+    "id": "primary",
+    "name": ""
+  },
+  "auth_user": {
+    "date_joined": "",
+    "email": "",
+    "first_name": "",
+    "id": "primary",
+    "is_active": "",
+    "is_staff": "",
+    "is_superuser": "",
+    "last_login": "",
+    "last_name": "",
+    "password": "",
+    "username": ""
+  },
+  "auth_user_groups": {
+    "group_id": "",
+    "id": "primary",
+    "user_id": ""
+  },
+  "auth_user_user_permissions": {
+    "id": "primary",
+    "permission_id": "",
+    "user_id": ""
+  },
+  "case_10": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_100": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_101": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_103": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_107": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_109": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_11": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_110": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_112": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_113": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_114": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_115": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_116": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_117": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_119": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_12": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_121": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_126": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_13": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_135": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_138": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_14": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_149": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_15": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_16": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_185": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_191": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_192": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_193": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_194": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_197": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_198": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_199": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_201": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_202": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_203": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_206": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_208": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_209": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_210": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_211": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_212": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_213": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_222": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_224": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_225": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_226": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_227": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_228": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_229": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_230": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_231": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_232": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_233": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_235": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_238": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_24": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_244": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "case_25": {
+    "header_postion": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_postion": ""
+  },
+  "citylocation": {
+    "areaCode": "",
+    "city": "",
+    "city_name": "",
+    "country": "",
+    "country_name": "",
+    "dmzCode": "",
+    "latitude": "",
+    "locId": "primary",
+    "longitude": "",
+    "postalCode": "",
+    "region": ""
+  },
+  "config_panel_setting": {
+    "appw": "",
+    "appw2": "",
+    "channel": "",
+    "id": "primary",
+    "ssid": "",
+    "ssl": "",
+    "wandev": ""
+  },
+  "custom_features": {
+    "f_desc": "",
+    "f_feature": "",
+    "f_name": "",
+    "f_src": "",
+    "f_tag": "",
+    "f_type": "",
+    "id": "primary"
+  },
+  "custom_type_list": {
+    "explanation": "",
+    "id": "primary"
+  },
+  "deviceReport": {
+    "case_id": "",
+    "conntime": "",
+    "deviceIP": "",
+    "deviceMac": "",
+    "id": "primary",
+    "mark": "",
+    "note": "",
+    "osguess": "",
+    "phonedesc": ""
+  },
+  "django_admin_log": {
+    "action_flag": "",
+    "action_time": "",
+    "change_message": "",
+    "content_type_id": "",
+    "id": "primary",
+    "object_id": "",
+    "object_repr": "",
+    "user_id": ""
+  },
+  "django_content_type": {
+    "app_label": "",
+    "id": "primary",
+    "model": "",
+    "name": ""
+  },
+  "django_migrations": {
+    "app": "",
+    "applied": "",
+    "id": "primary",
+    "name": ""
+  },
+  "django_session": {
+    "expire_date": "",
+    "session_data": "",
+    "session_key": "primary"
+  },
+  "dns_info": {
+    "app_id": "",
+    "case_id": "",
+    "custom_id": "",
+    "domain": "",
+    "dst_ip": "",
+    "dst_mac": "",
+    "dst_port": "",
+    "end_time": "",
+    "id": "primary",
+    "malicious_id": "",
+    "recv_flow_size": "",
+    "response": "",
+    "send_flow_size": "",
+    "src_ip": "",
+    "src_mac": "",
+    "src_port": "",
+    "start_time": "",
+    "tagged": ""
+  },
+  "domain_cert": {
+    "cert": "",
+    "domain": "",
+    "Id": "primary"
+  },
+  "email_info": {
+    "app_id": "",
+    "attach_path": "",
+    "bbc_to": "",
+    "case_id": "",
+    "cc_to": "",
+    "custom_id": "",
+    "date": "",
+    "dst_ip": "",
+    "dst_mac": "",
+    "dst_port": "",
+    "email_uid": "",
+    "eml_path": "",
+    "end_time": "",
+    "fromname": "",
+    "header_path": "",
+    "html_path": "",
+    "id": "primary",
+    "inline_path": "",
+    "malicious_id": "",
+    "passwd": "",
+    "path": "",
+    "recv_flow_size": "",
+    "send_flow_size": "",
+    "src_ip": "",
+    "src_mac": "",
+    "src_port": "",
+    "start_time": "",
+    "subject": "",
+    "tagged": "",
+    "text_path": "",
+    "toname": "",
+    "username": ""
+  },
+  "emailattach_info": {
+    "attach_name": "",
+    "attach_path": "",
+    "case_id": "",
+    "email_uid": "",
+    "id": "primary",
+    "mail_id": "",
+    "seq_number": "",
+    "status": "",
+    "type": "",
+    "username": ""
+  },
+  "fail_domain": {
+    "domain": "",
+    "Id": "primary",
+    "ip": ""
+  },
+  "historyDev": {
+    "Id": "primary",
+    "mac": ""
+  },
+  "http_info": {
+    "app_id": "",
+    "case_id": "",
+    "custom_id": "",
+    "domain": "",
+    "dst_ip": "",
+    "dst_mac": "",
+    "dst_port": "",
+    "end_time": "",
+    "file_segment_length": "",
+    "file_segment_postion": "",
+    "html_flag": "",
+    "http_or_https": "",
+    "id": "primary",
+    "location": "",
+    "malicious_id": "",
+    "method": "",
+    "operation_flag": "",
+    "param": "",
+    "recv_data_path": "",
+    "recv_data_size": "",
+    "recv_flow_size": "",
+    "referer": "",
+    "referer_http_id": "",
+    "request_header": "",
+    "request_time": "",
+    "response": "",
+    "response_time": "",
+    "root_flag": "",
+    "send_data_path": "",
+    "send_data_size": "",
+    "send_flow_size": "",
+    "src_ip": "",
+    "src_mac": "",
+    "src_port": "",
+    "standard_http_flag": "",
+    "start_time": "",
+    "status_flag": "",
+    "status_number": "",
+    "suspicious_id": "",
+    "tagged": "",
+    "url": ""
+  },
+  "http_relation_info": {
+    "case_id": "",
+    "child_id": "",
+    "id": "primary",
+    "parent_id": "",
+    "r_types": ""
+  },
+  "ip_domain": {
+    "domain": "",
+    "Id": "primary",
+    "ip": ""
+  },
+  "ip_location_info": {
+    "areaCode": "",
+    "case_id": "",
+    "city": "",
+    "city_name": "",
+    "country": "",
+    "country_name": "",
+    "dmzCode": "",
+    "id": "primary",
+    "ip": "",
+    "latitude": "",
+    "locId": "",
+    "longitude": "",
+    "postalCode": "",
+    "region": ""
+  },
+  "ipindex": {
+    "endIpNum": "",
+    "LocId": "",
+    "startIpNum": "primary"
+  },
+  "m_result": {
+    "case_id": "",
+    "device_id": "",
+    "foundtime": "",
+    "id": "primary",
+    "m_name": "",
+    "m_type": "",
+    "malicious_hits": "",
+    "malicious_id": "",
+    "type": ""
+  },
+  "malicious_info": {
+    "id": "primary",
+    "malicious": "",
+    "malicious_desc": "",
+    "malicious_stg": "",
+    "malicious_type": ""
+  },
+  "malicious_type_detail_mod": {
+    "explanation": "",
+    "id": "primary",
+    "suspicious_type": ""
+  },
+  "pem_info": {
+    "domain": "",
+    "etime": "",
+    "id": "primary",
+    "issuer": "",
+    "md5": "",
+    "path": "",
+    "serial": "",
+    "signalgorithm": "",
+    "SN": "",
+    "status": "",
+    "status_number_id": "",
+    "stime": "",
+    "subject": "",
+    "version": ""
+  },
+  "pem_status_info": {
+    "desc": "",
+    "explain": "",
+    "id": ""
+  },
+  "suspicious_info": {
+    "id": "primary",
+    "suspicious": "",
+    "suspicious_desc": "",
+    "suspicious_stg": "",
+    "suspicious_type": ""
+  },
+  "sys_panel_case": {
+    "detector": "",
+    "id": "primary",
+    "mobiletype": "",
+    "name": "",
+    "starttime": "",
+    "stat": ""
+  },
+  "sys_panel_entity": {
+    "detector": "",
+    "id": "primary",
+    "mobiletype": "",
+    "name": "",
+    "starttime": "",
+    "stat": ""
+  },
+  "t_current_status": {
+    "current_status": "",
+    "extra": "",
+    "id": "primary"
+  },
+  "t_dbsource_conf": {
+    "c_name": "",
+    "c_name_type": "",
+    "extensec_name": "",
+    "id": "primary",
+    "indexc_name": "",
+    "ip_address": "",
+    "port": "",
+    "server_name": "",
+    "table_name": ""
+  },
+  "t_matchresult": {
+    "case_id": "",
+    "context": "",
+    "data_source_col": "",
+    "data_source_index": "",
+    "data_source_index_col": "",
+    "data_source_tb": "",
+    "id": "primary",
+    "offset": "",
+    "offset_in_context": "",
+    "session_id": "",
+    "target_data": "",
+    "target_length": ""
+  },
+  "t_natinfo_from_ipsec": {
+    "ip_behind_nat": "",
+    "lac_ip": "primary",
+    "lac_port": ""
+  },
+  "t_pm4tinysearch": {
+    "finished": "",
+    "id": "primary",
+    "loaded": ""
+  },
+  "t_pppinfo": {
+    "ifname": "primary",
+    "lac_ip": "",
+    "lac_port": ""
+  },
+  "t_regex_conf": {
+    "id": "primary",
+    "regex_class": "",
+    "regex_desc": "",
+    "regex_name": "",
+    "switch": ""
+  },
+  "t_search_interface": {
+    "case_id": "",
+    "cmd": "",
+    "count": "",
+    "express": "",
+    "format_type": "",
+    "id": "primary",
+    "model_id": "",
+    "status": ""
+  },
+  "t_searchresult": {
+    "app_id": "",
+    "case_id": "",
+    "context": "",
+    "data_id": "",
+    "end_in_context": "",
+    "id": "primary",
+    "offset_in_context": "",
+    "regex_id": "",
+    "source_id": "",
+    "src_mac": "",
+    "tagged": "",
+    "target_data": "",
+    "target_length": "",
+    "target_offset": ""
+  },
+  "t_sourcedata_conf": {
+    "app_id": "",
+    "case_id": "",
+    "data_id": "",
+    "data_id_desc": "",
+    "data_type": "",
+    "source_id": "primary",
+    "src_mac": ""
+  },
+  "t_sourcedata_status": {
+    "app_id": "",
+    "case_id": "",
+    "data_id": "",
+    "data_id_desc": "",
+    "data_type": "",
+    "source_id": "primary",
+    "src_mac": "",
+    "status": ""
+  },
+  "t_sys_status": {
+    "id": "primary",
+    "status": "",
+    "status_desc": ""
+  },
+  "t_test4tinysearch": {
+    "id": "primary",
+    "input": ""
+  },
+  "t_user_tag": {
+    "id": "primary",
+    "tagname": "",
+    "tagscaseid_id": "",
+    "tagsrctb": "",
+    "tagtbidx": ""
+  },
+  "t_user_tag_rel": {
+    "child": "",
+    "id": "primary",
+    "parent": ""
+  },
+  "type_explanation_1023": {
+    "auto_id": "primary",
+    "explanation": "",
+    "suspicious_type": ""
+  },
+  "unstd_cap_info": {
+    "case_id": "",
+    "header_length": "",
+    "header_offset": "",
+    "id": "primary",
+    "payload_length": "",
+    "payload_offset": "",
+    "send_or_recv": "",
+    "time": "",
+    "unstd_id": ""
+  },
+  "unstd_info": {
+    "app_id": "",
+    "case_id": "",
+    "custom_id": "",
+    "dst_ip": "",
+    "dst_mac": "",
+    "dst_port": "",
+    "end_time": "",
+    "id": "primary",
+    "L2_protocol": "",
+    "L3_protocol": "",
+    "malicious_id": "",
+    "md5_str": "",
+    "recv_data_path": "",
+    "recv_data_size": "",
+    "recv_flow_size": "",
+    "send_data_path": "",
+    "send_data_size": "",
+    "send_flow_size": "",
+    "session": "",
+    "src_ip": "",
+    "src_mac": "",
+    "src_port": "",
+    "ssl_flag": "",
+    "start_time": "",
+    "tagged": ""
+  },
+  "users_entity": {
+    "address": "",
+    "id": "primary",
+    "loginTime": "",
+    "name": ""
+  },
+  "wdappinfo": {
+    "apkurl": "",
+    "appdesc": "",
+    "apphot": "",
+    "appiconurl": "",
+    "appname": "",
+    "appPackname": "",
+    "appshort": "",
+    "appsize": "",
+    "apptags": "",
+    "apptype": "",
+    "flag": "",
+    "id": "primary",
+    "progress": ""
+  },
+  "zhbb_country_protocol_report": {
+    "country": "",
+    "device_id": "",
+    "id": "primary",
+    "protocol": "",
+    "ratio": "",
+    "recv_flow": "",
+    "send_flow": "",
+    "sum": ""
+  },
+  "zhbb_domain_ip_protocol_report": {
+    "country": "",
+    "device_id": "",
+    "domain_ip_protocol": "",
+    "Id": "primary",
+    "L3_protocol": "",
+    "recv_flow": "",
+    "send_flow": "",
+    "sum": "",
+    "type": ""
+  },
+  "zhbb_m_s_report": {
+    "comm_num": "",
+    "device_id": "",
+    "id": "primary",
+    "m_or_s_num": "",
+    "protocol": "",
+    "ratio": "",
+    "type": ""
+  }
+}
